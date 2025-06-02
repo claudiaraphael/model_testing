@@ -1,0 +1,9 @@
+ollama
+groq
+requests
+jupyter
+ipython
+notebook
+matplotlib  # for plotting
+pandas      # for organizing data and responses
+python-dotenv  # for environment variable management
